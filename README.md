@@ -7,6 +7,6 @@ There are 3 notebooks in this repo:
 
 **Report available**: heart disease report.pdf
 
-- EDA images stored in images file
+- EDA images stored in images directory
 - Pickled models stored in model directory
-- Additional functions stored in eda/helper_functions/
+- Additional functions stored in eda/helper_functions directory
